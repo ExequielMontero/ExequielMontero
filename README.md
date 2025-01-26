@@ -7,13 +7,6 @@
 
 # 💻 Tecnolgías:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-# 📊 GitHub Estadísticas:
-![](https://github-readme-stats.vercel.app/api?username=ExequielMontero&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ExequielMontero&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ExequielMontero&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trofeos
-![](https://github-profile-trophy.vercel.app/?username=ExequielMontero&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Repo Mejor Contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=ExequielMontero&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
